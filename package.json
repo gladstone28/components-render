@@ -1,5 +1,5 @@
 {
-  "name": "components-render-other-components",
+  "name": "components-render",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,6 +40,6 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-"homepage": "http://gladstone28.github.io/components-render-other-components"
+"homepage": "http://gladstone28.github.io/components-render"
 
 }
