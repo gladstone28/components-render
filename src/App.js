@@ -1,7 +1,8 @@
 import React from 'react';
+import HelloWorld from './HelloWorld';
 
-function HelloWorld(){
-  return(<h1>Hello, World!</h1>);
+function App(){
+  return <HelloWorld />;
 }
 
-export default HelloWorld;
+export default App;
